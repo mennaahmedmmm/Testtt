@@ -507,6 +507,9 @@
 /*media query*/
 
 @media (max-width: 767px){
+  html{
+    overflow-x: hidden;
+  }
   .team-title {
     font-size: 4rem;
     padding: 55px;
@@ -530,16 +533,16 @@
     margin-left: 5px;
   }
   .img1 p {
-    font-size: 12px;
+    font-size: 11px;
      }
     .img1 h2 {
-      font-size: 15px;
+      font-size: 14px;
        }
     .img2 h2 {
-        font-size: 14px;
+        font-size: 13px;
          }
      .img2 p {
-          font-size: 12px;
+          font-size: 11px;
       }
 
 }
