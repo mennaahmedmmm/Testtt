@@ -507,7 +507,8 @@
 /*media query*/
 
 @media (max-width: 767px){
-  html{
+  *
+  {
     overflow-x: hidden;
   }
   .team-title {
