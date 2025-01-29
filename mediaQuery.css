@@ -507,10 +507,7 @@
 /*media query*/
 
 @media (max-width: 767px){
-  *
-  {
-    overflow-x: hidden;
-  }
+ 
   .team-title {
     font-size: 4rem;
     padding: 55px;
