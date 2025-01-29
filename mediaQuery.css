@@ -519,6 +519,9 @@
   {
     overflow-x: hidden;
   }
+  .images{
+    margin-left: 25px;
+  }
   .team-title {
     font-size: 3rem;
     padding: 40px;
@@ -554,5 +557,35 @@
      .img2 p {
           font-size: 11px;
       }
+.img1 img{
+  box-shadow: 0px 5px 23px 0px #0099CC52;
+}
+.img2 img{
+  box-shadow: 0px 5px 23px 0px #0099CC52;
+}
+.images .first p{
+  margin-right: 30px;
+}
+.images .first h2{
+  margin-right: 30px;
+}
+.images .second p{
+  margin-right: 25px;
+}
+.images .second h2{
+  margin-right: 25px;
+}
+.images .third p{
+  margin-right: 20px;
+}
+.images .third h2{
+  margin-right: 20px;
+}
+.images .fourth p{
+  margin-right: 25px;
+}
+.images .fourth h2{
+  margin-right: 25px;
+}
 
 }
