@@ -520,8 +520,9 @@
     overflow-x: hidden;
   }
   .team-title {
-    font-size: 4rem;
-    padding: 55px;
+    font-size: 3rem;
+    padding: 40px;
+    margin-left:20px ;
     padding-bottom: 20px;
     
   }
