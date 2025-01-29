@@ -244,8 +244,8 @@
   }
   .contact .footerLogo{
     margin-left: 24px;
-    width: 76px;
-    height: 15px;
+    /* width: 76px;
+    height: 15px; */
   }
   .contact .company{
     margin-left: 24px;
@@ -507,7 +507,10 @@
 /*media query*/
 
 @media (max-width: 767px){
- 
+  *
+  {
+    overflow-x: hidden;
+  }
   .team-title {
     font-size: 4rem;
     padding: 55px;
