@@ -293,8 +293,8 @@ margin-bottom: 10px;
 }
 .contact .footerLogo{
   margin-left: 32px;
-  width: 76px;
-  height: 15px;
+  /* width: 76px;
+  height: 15px; */
 }
 .contact .company{
   margin-left: 250px;
